@@ -1,1 +1,63 @@
-var _0xf46dd6=_0x86f0;(function(_0x4d4326,_0x37e4d7){var _0x33b0d5=_0x86f0,_0x125288=_0x4d4326();while(!![]){try{var _0x54cb2a=parseInt(_0x33b0d5(0xe3))/0x1+-parseInt(_0x33b0d5(0xf3))/0x2*(-parseInt(_0x33b0d5(0xeb))/0x3)+-parseInt(_0x33b0d5(0xef))/0x4+-parseInt(_0x33b0d5(0xf2))/0x5+parseInt(_0x33b0d5(0xe2))/0x6+-parseInt(_0x33b0d5(0xfb))/0x7*(-parseInt(_0x33b0d5(0xee))/0x8)+parseInt(_0x33b0d5(0xf1))/0x9*(-parseInt(_0x33b0d5(0xf0))/0xa);if(_0x54cb2a===_0x37e4d7)break;else _0x125288['push'](_0x125288['shift']());}catch(_0x56dff1){_0x125288['push'](_0x125288['shift']());}}}(_0x46d4,0x4d082),window[_0xf46dd6(0xf5)]=function(){var _0x1a8527=_0xf46dd6,_0x30005b='All\x20text\x20on\x20this\x20page\x20cannot\x20be\x20copied.\x20But\x20you\x20can\x20try)',_0x149105=_0x1a8527(0xe8);document[_0x1a8527(0xe9)]('no-copy')[_0x1a8527(0xf8)]=_0x149105,document[_0x1a8527(0xe9)](_0x1a8527(0xf7))['innerHTML']=_0x30005b;},document[_0xf46dd6(0xf4)]('contextmenu',_0xc5e7cc=>_0xc5e7cc[_0xf46dd6(0xf6)]()),document[_0xf46dd6(0xf4)]('keydown',function(_0x4fd395){var _0x59219d=_0xf46dd6;if((_0x4fd395['ctrlKey']||_0x4fd395[_0x59219d(0xe4)])&&_0x4fd395[_0x59219d(0xea)]&&_0x4fd395[_0x59219d(0xfa)]===0x49)_0x4fd395[_0x59219d(0xf6)]();else{if(KeyboardEvent[_0x59219d(0xfa)]===0x7b)_0x4fd395[_0x59219d(0xf6)]();else{if(_0x4fd395[_0x59219d(0xf9)]&&KeyboardEvent[_0x59219d(0xfa)]===0x43)_0x4fd395[_0x59219d(0xf6)]();else{if(_0x4fd395[_0x59219d(0xf9)]&&_0x4fd395[_0x59219d(0xed)]==='p')_0x4fd395[_0x59219d(0xf6)]();else{if(_0x4fd395[_0x59219d(0xf9)]&&_0x4fd395['key']==='u')_0x4fd395[_0x59219d(0xf6)]();else{if(_0x4fd395['metaKey']&&_0x4fd395[_0x59219d(0xed)]==='i'){}}}}}}}),window['addEventListener']('devtoolschange',function(_0x40fd6b){var _0x296d39=_0xf46dd6;window[_0x296d39(0xe5)][_0x296d39(0xe6)]='https://example.com/';}),document[_0xf46dd6(0xf4)]('keydown',function(_0x3aedbd){var _0x442dc2=_0xf46dd6;_0x3aedbd[_0x442dc2(0xe4)]&&_0x3aedbd[_0x442dc2(0xec)]&&(_0x3aedbd[_0x442dc2(0xf6)](),alert(_0x442dc2(0xe7)));}));function _0x86f0(_0x45dc0c,_0x3196f6){var _0x46d49b=_0x46d4();return _0x86f0=function(_0x86f0c7,_0x426a85){_0x86f0c7=_0x86f0c7-0xe2;var _0x3e0c9a=_0x46d49b[_0x86f0c7];return _0x3e0c9a;},_0x86f0(_0x45dc0c,_0x3196f6);}function _0x46d4(){var _0x9c8ae=['metaKey','location','href','Мак\x20у\x20тебя\x20круто,\x20но\x20что\x20дальше\x20то?','Lorem\x20ipsum\x20dolor\x20sit\x20amet,\x20consectetur\x20adipisicing\x20elit,\x20sed\x20do\x20eiusmod\x20tempor\x20incididunt\x20ut\x20labore\x20et\x20dolore\x20magna\x20aliqua.\x20Ut\x20enim\x20ad\x20minim\x20veniam,\x20quis\x20nostrud\x20exercitation\x20ullamco\x20laboris\x20nisi\x20ut\x20aliquip\x20ex\x20ea\x20commodo\x20consequat.\x20Duis\x20aute\x20irure\x20dolor\x20in\x20reprehenderit\x20in\x20voluptate\x20velit\x20esse\x20cillum\x20dolore\x20eu\x20fugiat\x20nulla\x20pariatur.\x20Excepteur\x20sint\x20occaecat\x20cupidatat\x20non\x20proident,\x20sunt\x20in\x20culpa\x20qui\x20officia\x20deserunt\x20mollit\x20anim\x20id\x20est\x20laborum.\x20Lorem\x20ipsum\x20dolor\x20sit\x20amet,\x20consectetur\x20adipisicing\x20elit,\x20sed\x20do\x20eiusmod\x20tempor\x20incididunt\x20ut\x20labore\x20et\x20dolore\x20magna\x20aliqua.\x20Ut\x20enim\x20ad\x20minim\x20veniam,\x20quis\x20nostrud\x20exercitation\x20ullamco\x20laboris\x20nisi\x20ut\x20aliquip\x20ex\x20ea\x20commodo\x20consequat.\x20Duis\x20aute\x20irure\x20dolor\x20in\x20reprehenderit\x20in\x20voluptate\x20velit\x20esse\x20cillum\x20dolore\x20eu\x20fugiat\x20nulla\x20pariatur.\x20Excepteur\x20sint\x20occaecat\x20cupidatat\x20non\x20proident,\x20sunt\x20in\x20culpa\x20qui\x20officia\x20deserunt\x20mollit\x20anim\x20id\x20est\x20laborum.\x20Lorem\x20ipsum\x20dolor\x20sit\x20amet,\x20consectetur\x20adipisicing\x20elit,\x20sed\x20do\x20eiusmod\x20tempor\x20incididunt\x20ut\x20labore\x20et\x20dolore\x20magna\x20aliqua.\x20Ut\x20enim\x20ad\x20minim\x20veniam,quis\x20nostrud\x20exercitation\x20ullamco\x20laboris\x20nisi\x20ut\x20aliquip\x20ex\x20ea\x20commodo','getElementById','shiftKey','879987YKtPOs','altKey','key','25896sdphHR','328824RuTMPK','5956670oakTgs','18JOWfhY','577595nxBnss','2VEZGzr','addEventListener','onload','preventDefault','title','innerHTML','ctrlKey','keyCode','791qxfZav','3055824UnAaMn','536167TcKhCH'];_0x46d4=function(){return _0x9c8ae;};return _0x46d4();}
+ window.onload = function() {
+      var text2 = "All text on this page cannot be copied. But you can try)"
+    var text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo";
+      document.getElementById('no-copy').innerHTML = text;
+      document.getElementById('title').innerHTML = text2;
+      };
+
+
+
+// Запрет на правую кнопку мыши 
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+// запрет на открытие панели разрабочтиков, запрет на использование горячих клавиш 
+// document.addEventListener('keydown', function(event) {
+//   if ((event.ctrlKey || event.metaKey) && event.shiftKey && event.keyCode === 73 || event.keyCode === 123 || 
+//     (event.ctrlKey && event.keyCode=== 67) || (event.metaKey && event.key === "c") ) {
+//     event.preventDefault(); // Prevent the default action of opening the developer panel
+//     // alert('copy disabled'); // Display a warning message
+//   }
+// }); 
+
+
+document.addEventListener('keydown', function(event) {
+if ((event.ctrlKey || event.metaKey) && event.shiftKey && event.keyCode === 73){
+ event.preventDefault(); // Prevent the default action of opening the developer panel
+   
+   // f12
+} else if (event.keyCode === 123) {
+  event.preventDefault();
+ 
+} else if(event.ctrlKey && event.keyCode=== 67) {
+event.preventDefault();
+
+// print
+} else if (event.ctrlKey && event.key === "p") {
+    event.preventDefault(); // Prevent the default behavior of opening the page source
+     // Display a custom message
+  } 
+  // open another page with code 
+  else if (event.ctrlKey && event.key === "u") {
+    event.preventDefault(); // Prevent the default behavior of opening the page source
+    // dev tools
+  } else if (event.metaKey && event.key === "i") {
+
+  }
+ 
+
+
+});
+
+
+window.addEventListener("devtoolschange", function(event) {
+ 
+  // Alternatively, you could redirect the user to another page:
+  window.location.href = "https://example.com/";
+});
+
+document.addEventListener("keydown", function(event) {
+  if (event.metaKey && event.altKey ) {
+    event.preventDefault(); // Prevent the default behavior of opening the developer panel
+    alert("Мак у тебя круто, но что дальше то?"); // Display a custom message
+  }
+});
